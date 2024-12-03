@@ -30,3 +30,25 @@ A simple AL extension that demonstrates batch processing in Business Central by 
 - Finds customers with Credit Limit (LCY) = 0
 - Sets their credit limit to 5000
 - Tracks number of updates made
+
+  <br>
+
+
+# CodeUnit - Modificaton / of Existing data  ->
+
+# Simple Discount Calculator - Business Central Extension
+
+A straightforward Business Central extension that calculates discounts based on quantity purchased. This extension demonstrates basic discount calculation functionality with a simple user interface.
+
+## Features
+
+### Discount Rules
+- 10% discount for quantity >= 100
+- 5% discount for quantity >= 50
+- 2% discount for quantity >= 20
+
+### Components
+- Codeunit: Simple discount calculation logic
+- Page: User interface for discount calculations
+  
+
